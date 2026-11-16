@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PyExCpp/PyExCpp.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="16180c8e-defe-422c-b653-b0e12ab2790b">
+    <Platform Project="AnyCPU" />
+    <Build Project="false" />
+  </Project>
+  <Project Path="PyExCpp_C/PyExCpp_C.vcxproj" Id="e68808c0-46a1-499d-893a-1ef3d09a7284" />
+</Solution>
